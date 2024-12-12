@@ -1,0 +1,14 @@
+{
+  "name": "fizzbuzz-app",
+  "version": "1.0.0",
+  "description": "FizzBuzzアプリケーション",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "あなたの名前",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
